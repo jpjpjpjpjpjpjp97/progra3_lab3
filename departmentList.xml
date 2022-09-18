@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Departments>
+    <Department ID="1">
+        <Name>IT</Name>
+        <Manager>Jorge Phillips</Manager>
+    </Department>
+    <Department ID="2">
+        <Name>Human Resources</Name>
+        <Manager>Amanda Leon</Manager>
+    </Department>
+    <Department ID="3">
+        <Name>Marketing</Name>
+        <Manager>Juan Ramirez</Manager>
+    </Department>
+    <Department ID="4">
+        <Name>Sales</Name>
+        <Manager>Robert Vance</Manager>
+    </Department>
+</Departments>
